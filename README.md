@@ -7,7 +7,7 @@
 
 ## 🌱 About Me
 I’m a B.Tech CSE student from Jaipur, passionate about **cybersecurity, Blue Team skills, and digital forensics**.  
-Since June 2025, I’ve been building my foundation in **networking, Linux, Wireshark, and Python**, focusing on practical labs and real-world scenarios.  
+I’ve been building my foundation in **networking, Linux, Wireshark, and Python**, focusing on practical labs and real-world scenarios.  
 
 I aim to **learn continuously, complete hands-on projects, and connect with cybersecurity professionals** to grow my skills and contribute meaningfully.
 
